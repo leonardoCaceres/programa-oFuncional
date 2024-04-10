@@ -1,21 +1,3 @@
-# Prova1
-
-**TODO: Add description**
-
-## Installation
-
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `prova1` to your list of dependencies in `mix.exs`:
-
-```elixir
-def deps do
-  [
-    {:prova1, "~> 0.1.0"}
-  ]
-end
-```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/prova1](https://hexdocs.pm/prova1).
-
+O valor de pi/6 é "0.52359877559", tendo como seu seno aproximadamente 0.5.
+Por algum motivo ainda desconhecido ele avisa que demorou 10 segundos, mas não trava a execução! Otimo!
+Caso queira evitar a mensagem basta descomentar os valores de 'x' e 'e' ja definidos!
